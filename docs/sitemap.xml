@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   
   <url>
-    <loc>http://hexxed.io/#about</loc>
+    <loc>https://thespinnergame.github.io/hexxed_website//#about</loc>
   </url>
   
   <url>
-    <loc>http://hexxed.io/#formspree</loc>
+    <loc>https://thespinnergame.github.io/hexxed_website//#formspree</loc>
   </url>
   
   <url>
-    <loc>http://hexxed.io/#sponsors</loc>
+    <loc>https://thespinnergame.github.io/hexxed_website//#sponsors</loc>
   </url>
   
   <url>
-    <loc>http://hexxed.io/#</loc>
-    <priority>0</priority>
+    <loc>https://thespinnergame.github.io/hexxed_website//#download</loc>
   </url>
   
   <url>
-    <loc>http://hexxed.io/#</loc>
-    <priority>0</priority>
+    <loc>https://thespinnergame.github.io/hexxed_website//#</loc>
   </url>
   
   <url>
-    <loc>http://hexxed.io/#</loc>
-    <priority>0</priority>
+    <loc>https://thespinnergame.github.io/hexxed_website//#</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespinnergame.github.io/hexxed_website//#</loc>
   </url>
   
 </urlset>

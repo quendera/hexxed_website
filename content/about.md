@@ -6,18 +6,21 @@ draft = false
 
 <h3 class="major">About hexxed</h3>
 
-hexxed is a videogame developed from the ground up to study how humans strategize to solve complex problems.
+### About hexxed 
 
-By understanding this, we can improve the Artificial Intelligence (AI) algorithms that exist and create new ones that adopt more human-like strategies in solving societal and individual problems.
+hexxed is a puzzle game designed by scientists to study how we solve problems. By playing, you will contribute to a global experiment seeking to model the human creative process with unprecedented depth and clarity.
 
-While humans are astute at solving very complex problems in a very fast manner, even extremely powerful AI's seem to have difficulty in doing so. In fact, it was only in the last years that computers defeated humans in games of Chess and Go. In hexxed, you will be put to the test!
+[**Download hexxed now!**](#Download)
 
-**Can you avoid getting hexxed and beat the AI?**
 
-[Download hexxed now!](#Download)
 
-> hexxed is developed in Lisbon, Portugal by:
 
-> <code>Gautam Agarwal</code>  (Postdoctoral Fellow @ Systems Neuroscience Lab, Champalimaud Research)
+### About us
 
-> <code>Tiago Quendera</code>  (Graduate Student @ Systems Neuroscience Lab, Champalimaud Research)
+We are neuroscientists based in Lisbon and Berkeley who study how the brain shapes our behaviors in the laboratory, so that we may learn to make better decisions in our lives.
+
+
+
+
+
+*hexxed is developed in Lisbon, Portugal and Berkeley, USA by Gautam Agarwal, Tiago Quendera and Zachary Mainen*

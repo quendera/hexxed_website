@@ -1,31 +1,13 @@
 +++
 title = "Download"
 weight = 99
-draft = true
+draft = false
 +++
 
-Download hexxed now on:
+Download hexxed now on Android
 
-**Android**
+[**Play Store**](https://play.google.com/store/apps/details?id=org.godotengine.hexxed)
 
-> [Play Store](#)
+[**Standalone APK**](https://drive.google.com/drive/folders/1-tQ77fNGNaK3T0QA9jntKlK8moDk6EO5?usp=sharing)
 
-> [Standalone APK](#)
 
-**iOS**
-
-> [Apple Store](#)
-
-**Windows**
-
-> [x86 Executable](#)
-
-> [x64 Executable](#)
-
-**OSx**
-
-> [Executable](#)
-
-**Linux**
-
-> [Executable](#)
