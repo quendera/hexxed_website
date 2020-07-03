@@ -1,4 +1,4 @@
-baseurl = "https://thespinnergame.github.io/hexxed_website/"
+baseurl = "https://thespinnergame.github.io/"
 title = "hexxed"
 theme = "dimension"
 languageCode = "en-us"
