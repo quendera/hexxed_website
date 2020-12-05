@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "about"
 weight = 1
 draft = false
 +++
@@ -21,6 +21,13 @@ We are neuroscientists based in Lisbon and Berkeley who study how the brain shap
 
 
 
+### Contact us
+
+You can reach us at thehexxedgame@gmail.com or follow us on social media with inquiries, feedback, and more. 
+We would love to hear from you!
 
 
-*hexxed is developed in Lisbon, Portugal and Berkeley, USA by Gautam Agarwal, Tiago Quendera and Zachary Mainen*
+
+
+
+*hexxed is developed in Lisbon, Portugal and Berkeley, USA by Gautam Agarwal, Tiago Quendera, Mani Hamidi and Zachary Mainen*
