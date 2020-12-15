@@ -10,7 +10,7 @@ draft = false
 
 hexxed is a puzzle game designed by scientists to study how we solve problems. By playing, you will contribute to a global experiment seeking to model the human creative process with unprecedented depth and clarity.
 
-[**Download hexxed now!**](#Download)
+[**Download hexxed now!**](#download)
 
 
 
